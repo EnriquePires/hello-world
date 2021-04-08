@@ -1,0 +1,6 @@
+I will try to post or update a program made in Python once per week. 
+For now I will make programs trying to find primes or other numbers and maybe I will try to solve some excercises from some websites like Eulerproject.
+
+I may add some repositories with works I have done during my master in Data Mining as long as it is comprehensible. Note that most explanations will be in Spanish.
+
+
